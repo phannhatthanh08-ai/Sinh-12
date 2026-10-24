@@ -1,0 +1,9 @@
+{
+  "name": "sinh-hoc-12-kntt-on-tap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hệ Thống Ôn Tập Điểm 10 Sinh Học 12 Kết Nối Tri Thức",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
